@@ -1,0 +1,19 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_47232907_4BAF_85D6_41CB_717A452393C5.label = taxi-vr
+
+## Skin
+
+### Tooltip
+IconButton_4574767D_4BB6_8C3A_41C1_BDB6B0F5386A.toolTip = Click for Fullscreen
+IconButton_4574767D_4BB6_8C3A_41C1_BDB6B0F5386A_mobile.toolTip = Click for Fullscreen
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Paisley Taxis
